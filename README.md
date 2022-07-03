@@ -1,6 +1,7 @@
-# I created a basic google plugin if you want to use it follow the steps.
 
-![image](https://user-images.githubusercontent.com/84348985/177056069-5f5dd0e4-1e12-4508-9c56-0165cfd021d8.png)
+![image](https://user-images.githubusercontent.com/84348985/177056081-7d0c48a6-b963-4463-b441-41f3aa7166f7.png)
+
+#An updated version will be published soon.
 
 
 # If you are using Microsoft Edge follow these steps.
