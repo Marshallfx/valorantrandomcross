@@ -25,9 +25,6 @@ opera://extensions
 
 2 - Activate Developer Mod.
 
-![image](https://user-images.githubusercontent.com/84348985/177054605-70f78d65-5c1f-493c-a185-2bd687436c12.png)
-
-
 3 - Finally upload the file.
 
 
