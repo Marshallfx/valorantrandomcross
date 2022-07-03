@@ -1,0 +1,47 @@
+body{
+    width: 650px;
+    height:150px;
+}
+
+.container{
+    width: 650px;
+    height: 150px;
+    background-color: rgb(34, 33, 33);
+}
+
+
+h1{
+    position: relative;
+    color: whitesmoke;
+    left: 46px;
+    top: 10px;
+    font-family:    Arial, Helvetica, sans-serif;
+}
+
+#button{
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 50px;
+    top: 25px;
+    border-radius: 6px;
+    font-size: 18px
+}
+
+.text{
+    position: relative;
+    width: 405px;
+    height: 70px;
+    left: 230px;
+    top: -30px;
+    background-color: rgba(255, 255, 255, 0.589);
+}
+
+#text-cross{
+    position: relative;
+    width: 300px;
+    height: 70px;
+    left: 235px;
+    top: -90px;
+    font-size: 15px;
+    font-family:    Arial, Helvetica, sans-serif;   
+}
