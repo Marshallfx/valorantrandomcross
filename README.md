@@ -11,7 +11,7 @@ edge://extensions/
 
 2 - Activate Developer Mod.
 
-![tempsnip](https://user-images.githubusercontent.com/84348985/177054373-aca4c4f1-05fa-4045-96c3-91beada5cebc.png)
+![image](https://user-images.githubusercontent.com/84348985/177054472-fa3ab072-c548-40fd-804c-b66a8e6336da.png)
 
 3 - Finally upload the file
 
