@@ -27,5 +27,15 @@ opera://extensions
 
 3 - Finally upload the file.
 
+# If you are using Google Chrome follow these steps.
+
+1 - Go to this site.
+
+chrome://extensions
+
+2 - Activate Developer Mod.
+
+3 - Finally upload the file.
+
 
 
