@@ -3,7 +3,7 @@
 I created a basic google plugin if you want to use it follow the steps.
 
 
-# If you are using Microsoft Edge, follow these steps.
+# If you are using Microsoft Edge follow these steps.
 
 1 - Go to this site.
 
@@ -16,3 +16,19 @@ edge://extensions/
 3 - Finally upload the file
 
 ![Capture](https://user-images.githubusercontent.com/84348985/177054397-f145060a-8ad9-40fa-93cd-5060e07c8164.PNG)
+
+# If you are using OperaGX follow these steps.
+
+1 - Go to this site.
+
+opera://extensions
+
+2 - Activate Developer Mod.
+
+![image](https://user-images.githubusercontent.com/84348985/177054605-70f78d65-5c1f-493c-a185-2bd687436c12.png)
+
+
+3 - Finally upload the file.
+
+
+
