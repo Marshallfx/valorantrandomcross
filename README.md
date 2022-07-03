@@ -1,8 +1,6 @@
-
-![image](https://user-images.githubusercontent.com/84348985/177056107-ba0722a8-2293-4a85-b060-b8a518d34a8f.png)
-
 # An updated version will be published soon.
-
+ 
+![image](https://user-images.githubusercontent.com/84348985/177056107-ba0722a8-2293-4a85-b060-b8a518d34a8f.png)
 
 # If you are using Microsoft Edge follow these steps.
 
