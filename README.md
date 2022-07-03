@@ -1,4 +1,4 @@
-# VALORANT RANDOM CROSSHAİR CREATOR
+# VALORANT RANDOM CROSSHAIR CREATOR
 
 I created a basic google plugin if you want to use it follow the steps.
 
