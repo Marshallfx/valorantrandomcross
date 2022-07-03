@@ -13,7 +13,7 @@ edge://extensions/
 
 ![image](https://user-images.githubusercontent.com/84348985/177054472-fa3ab072-c548-40fd-804c-b66a8e6336da.png)
 
-3 - Finally upload the file
+3 - Finally upload the file.
 
 ![Capture](https://user-images.githubusercontent.com/84348985/177054397-f145060a-8ad9-40fa-93cd-5060e07c8164.PNG)
 
