@@ -1,6 +1,6 @@
-# VALORANT RANDOM CROSSHAIR CREATOR
+# I created a basic google plugin if you want to use it follow the steps.
 
-I created a basic google plugin if you want to use it follow the steps.
+![image](https://user-images.githubusercontent.com/84348985/177056069-5f5dd0e4-1e12-4508-9c56-0165cfd021d8.png)
 
 
 # If you are using Microsoft Edge follow these steps.
